@@ -25,10 +25,15 @@ IMC = peso / (altura × altura)
 EXEMPLO DE USO
 
 Insira 1 ou 2
+
 Qual seu gênero? 1 - Masculino ou 2 - Feminino: 2
+
 Digite a altura em metros. Ex: 1.80
+
 Qual a sua altura? 1.65
+
 Digite o peso em kg. Ex: 70.5
+
 Qual o seu peso? 62
 
 IMC 22.8: Normal
